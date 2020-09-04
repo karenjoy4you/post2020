@@ -1,4 +1,6 @@
-/*LECTURE 2 PRACTICAL EX. PPT SLIDE 29*/
+/*LECTURE 2 PRACTICAL EX. PPT SLIDE 29
+Make 2 tables, populate them, assign primary and foreign keys to both tables
+Finally display*/
 
 DROP DATABASE IF EXISTS pacestudent;
 CREATE DATABASE pacestudent;
@@ -33,7 +35,7 @@ SELECT * FROM STUDENT;
 SELECT * FROM MEALS;
 
 
-/*
+/* OUTPUT
 mysql> source /Users/karenjoy/Documents/ClassesFall2020/IS664 - DB programming/DBCodes/lec2practice.sql
 Query OK, 0 rows affected (0.00 sec)
 
